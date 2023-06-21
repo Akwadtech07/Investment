@@ -553,6 +553,82 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\plugins\\google-analytics-for-wordpress\\assets\\css\\frontend.min.css",
+      "PackagePath": "staticwebassets\\wp-content\\plugins\\google-analytics-for-wordpress\\assets\\css\\frontend.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\common-skeleton.min.css",
+      "PackagePath": "staticwebassets\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\common-skeleton.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\tooltip.min.css",
+      "PackagePath": "staticwebassets\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\tooltip.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\wp-content\\themes\\harbour\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\wp-content\\themes\\harbour\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\wp-content\\themes\\harbour\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\wp-content\\themes\\harbour\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\wp-content\\themes\\harbour\\favicons\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\wp-content\\themes\\harbour\\favicons\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\images\\logo.png",
+      "PackagePath": "staticwebassets\\wp-content\\themes\\harbour\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\uploads\\2015\\07\\homepage-slider.jpg",
+      "PackagePath": "staticwebassets\\wp-content\\uploads\\2015\\07\\homepage-slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\uploads\\2019\\04\\madison.jpg",
+      "PackagePath": "staticwebassets\\wp-content\\uploads\\2019\\04\\madison.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\uploads\\wp-less\\harbour\\style-8f66c599d8.css",
+      "PackagePath": "staticwebassets\\wp-content\\uploads\\wp-less\\harbour\\style-8f66c599d8.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-includes\\css\\classic-themes.min.css",
+      "PackagePath": "staticwebassets\\wp-includes\\css\\classic-themes.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-includes\\css\\dist\\block-library\\style.min.css",
+      "PackagePath": "staticwebassets\\wp-includes\\css\\dist\\block-library\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-includes\\wp-json\\tribe\\events\\v1\\index.htm",
+      "PackagePath": "staticwebassets\\wp-includes\\wp-json\\tribe\\events\\v1\\index.htm"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-includes\\wp-less\\harbour\\style-8f66c599d8.css",
+      "PackagePath": "staticwebassets\\wp-includes\\wp-less\\harbour\\style-8f66c599d8.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-json\\tribe\\events\\v1\\index.htm",
+      "PackagePath": "staticwebassets\\wp-json\\tribe\\events\\v1\\index.htm"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-less\\harbour\\style-8f66c599d8.css",
+      "PackagePath": "staticwebassets\\wp-less\\harbour\\style-8f66c599d8.css"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.New folder.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
