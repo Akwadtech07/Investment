@@ -1,0 +1,713 @@
+﻿@{
+    Layout = null;
+}
+
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Harvard</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="~/css/responsive.css">
+    <!-- fevicon -->
+    <link rel="icon" href="~/images/fevicon.png" type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="~/css/jquery.mCustomScrollbar.min.css">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="~/https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <!-- owl stylesheets -->
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
+          media="screen">
+</head>
+
+<body>
+    <!-- header top section start -->
+    <!-- <div class="header_top">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="call_text"><a href="#"><img src="images/map-icon.png"><span
+                  class="call_text_left">Locations</span></a></div>
+          </div>
+          <div class="col-sm-4">
+            <div class="call_text"><a href="#"><img src="images/call-icon.png"><span
+                  class="call_text_left">(832)6696465</span></a></div>
+          </div>
+          <div class="col-sm-4">
+            <div class="call_text"><a href="#"><img src="images/mail-icon.png"><span
+                  class="call_text_left">lynnellealdoncollector@gmail.com</span></a></div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    <!-- header top section end -->
+    <!-- header section start -->
+    <div class="header_section">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="logo"><a asp-controller ="Home" asp-action="Index"><img src="~/images/logo.png"></a></div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="About">ABOUT US</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Services">SERVICES</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Customer">CUSTOMER</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="News">NEWS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Contact">CONTACT US</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Testimonia">TEAM</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">LOGIN</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">SIGNUP</a>
+                        </li>
+                        <!-- <li class="nav-item">
+                          <a class="nav-link" href="#"><img src="images/search-icon.png"></a>
+                        </li>  -->
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <!-- header section end -->
+    <!-- banner section start -->
+    <div class="banner_section layout_padding">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- <div class="col-sm-8 padding_0">
+                  <div class="banner_img"><img src="images/bannera-img.png"></div>
+                </div> -->
+                <div class="col-sm-4">
+                    <h1 class="clever_text">
+                        Clever <span style="color: #cdcdf3;">Investing</span> makes
+                        Your Money Grow
+                    </h1>
+                    @*<div class="read_bt_2"><a href="#">Read More</a></div>*@
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- banner section end -->
+    <!-- services section start -->
+    <div class="services_section layout_padding">
+        <div class="container">
+
+            <div class="d-flex  justify-content-center">
+                <h5 class="what_text">What we do</h5>
+            </div>
+            <div class="d-flex  justify-content-center">
+                <h1 class="services_text custom_main">Our Expertize & Services</h1>
+            </div>
+        </div>
+    </div>
+    <!-- services section end -->
+    <!-- services_2 section start -->
+    <div class="services_section_2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-lg-8">
+                    <div class="plane_main active">
+                        <div class="plane_left">
+                            <div class="icon_1"><img src="~/images/icon-1.png"></div>
+                        </div>
+                        <div class="plane_right">
+                            <h3 class="vision_text">VISION TO PLAN</h3>
+                            <p class="completely_text">
+                                Completely synergize resource taxing relationships via niche markets.
+                                Completely synergize resource taxing.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="plane_main">
+                        <div class="plane_left">
+                            <div class="icon_1"><img src="~/images/icon-2.png"></div>
+                        </div>
+                        <div class="plane_right">
+                            <h3 class="vision_text">GROWTH TO VISION</h3>
+                            <p class="completely_text">
+                                completly focused on increasing all investors capital. investors typically
+                                invest in growth stocks-that is, young or small companies and individuals whose earnings are expected to
+                                increase at a specific rate compared to their industry sectors or the overall market.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="plane_main">
+                        <div class="plane_left">
+                            <div class="icon_1"><img src="~/images/icon-3.png"></div>
+                        </div>
+                        <div class="plane_right">
+                            <h3 class="vision_text">MARKET TO GROWTH</h3>
+                            <p class="completely_text">
+                                Completely synergize the strategy where the prime focus is to increase our
+                                investor's capital.<br>In this strategy, the money is placed on stock of big and porpular companies
+                                whose earnings are expected to grow at a certain level through intense visibility Study
+                            </p>
+                        </div>
+                    </div>
+                    <div class="plane_main">
+                        <div class="plane_left">
+                            <div class="icon_1"><img src="~/images/icon-4.png"></div>
+                        </div>
+                        <div class="plane_right">
+                            <h3 class="vision_text">PLAN TO MARKET</h3>
+                            <p class="completely_text">
+                                Discover investors needs. The first step is finding out what potential
+                                investors need or want in an investment<br>Ensuring our platform is strong in areas critical to our
+                                investors,<br>Find and Communicate with likely investors for more elborate investment ideas
+                            </p>
+                        </div>
+                    </div>
+                    <div class="read_bt"><a href="#">Read More</a></div>
+                </div>
+                <div class="col-sm-12 col-lg-4">
+                    <div class="image_1"><img src="~/images/img-1.png"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- services_2 section end -->
+    <!-- money section start -->
+    <div class="money_section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12 col-lg-4">
+                    <div class="money_taital">
+                        <h3 class="advanced_text">ADVANCED SERVICE</h3>
+                        <h1 class="data_text">Account management</h1>
+                        <p class="lorem_text">
+                            It is part of our responsibilities  to ensure that our clients are comfortable. we have
+                            quality experienced management specialist that will be willing to assist all our intrested clints with
+                            profit tracking and risk managements exercise. all this on the company expenses. serving all our partners
+                            is our first and the last priority.
+                            on yoa ur registration on our platform you can choose your peronal broker or we asign to you a suitable
+                            broker based on your investment plans.
+                        </p>
+                        <div class="read_bt_1"><a href="#">Read More</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-lg-8 padding_0">
+                    <div class="image_2">
+                        <img src="images/img-2.png"
+                             style="box-shadow: 0px 0px 16px rgba(17,17,26,0.1); border-radius: 100px; align-items:last baseline;">
+                    </div>
+                    <h1 class="your_text">Your<br> Money<br> Grow</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- money section end -->
+    <!-- client section start -->
+    <div class="client_section layout_padding">
+        <div class="container">
+            <div class="d-flex  justify-content-center">
+                <h1 class="services_text custom_main">Reviews</h1>
+            </div>
+        </div>
+    </div>
+    <div class="client_section_2 layout_padding">
+        <div class="container">
+            <div id="main_slider" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="client_main">
+                            <img src="~/images/img-3.png" style="border-radius: 100px; position: relative;">
+                        </div>
+                        <div class="client_main_1">
+                            <h1 class="kamlioo_text">Benard</h1>
+                            <p class="ipsum_text">
+                                It is a long established fact that a risk taker will be distracted by the first
+                                reason the risk step was ignited. The point of having a sense of reliabilty in this great organization
+                                is a very Godly decision, and i never regret inveting
+                            </p>
+                            <div class="quote_icon"><img src="images/quote-icon.png"></div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="client_main">
+                            <img src="~/images/img-6.png"
+                                 style="border-radius: 100px; position: relative; height: 75pt; width:75pt;">
+                        </div>
+                        <div class="client_main_1">
+                            <h1 class="kamlioo_text">Kate</h1>
+                            <p class="ipsum_text">
+                                It is a long established fact that a reader will be distracted by the readable
+                                content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
+                                more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it
+                            </p>
+                            <div class="quote_icon"><img src="~/images/quote-icon.png"></div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="client_main">
+                            <img src="~/images/img-7.png" style="border-radius: 100px; position: relative;">
+                        </div>
+                        <div class="client_main_1">
+                            <h1 class="kamlioo_text">Jakmal</h1>
+                            <p class="ipsum_text">
+                                It is a long established fact that a reader will be distracted by the readable
+                                content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
+                                more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it
+                            </p>
+                            <div class="quote_icon"><img src="~/images/quote-icon.png"></div>
+                        </div>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#main_slider" role="button" data-slide="prev">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                <a class="carousel-control-next" href="#main_slider" role="button" data-slide="next">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- client section end -->
+    <!-- contact section start -->
+    <div class="contact_section layout_padding">
+        <div class="container">
+            <h1 class="contact_text">Contact Us</h1>
+            <div class="contact_section_2">
+                <div class="row">
+                    <div class="col-md-6">
+                        <form action="/action_page.php">
+                            <div class="form-group">
+                                <input type="text" class="email-bt" placeholder="Name" name="Name">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="email-bt" placeholder="Email" name="Email">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="email-bt" placeholder="Subject" name="Email">
+                            </div>
+                            <div class="form-group">
+                                <textarea class="massage-bt" placeholder="Massage" rows="5" id="comment" name="text"></textarea>
+                            </div>
+                        </form>
+                        <div class="main_bt"><a href="#" style="border-radius: 25pc;">Send</a></div>
+                    </div>
+                    <!-- <div class="col-md-6">
+                      <div class="map">
+                        <div class="map-responsive">
+                          <iframe
+                            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&q=Eiffel+Tower+Paris+France"
+                            width="600" height="400" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
+                        </div>
+                      </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+        <!-- footer section start -->
+        <div class="footer_section layout_padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="footer_logo"><img src="~/images/footer-logo.png" style="border-radius: 45pc;"></div>
+                        <p class="dolor_amet_text"></p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h1 style="color:black; text-align: center;">Our History</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="col-xs-12">
+                    <h3></h3>
+                </div>
+            </div>
+            <div class="container content" style="color:white; font-size:large;">
+                <ul class="timeline">
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2022</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    Harvard made a strategic decision to enhance our books and records system. The intention is not only
+                                    to improve our back office procedures, but at the advisor's level as well. Our goal is to have Atlas
+                                    fully in place by January 2023.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2021</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    Harvard Investments, Inc. Announces Officer Changes & Succession Plan Updates!<br> Travis Bator and
+                                    Julie Nelles were recently appointed officers of Harvard Investments, Inc. Mr. Bator has been promoted
+                                    to Chief Compliance Officer & Vice President and Mrs. Nelles has been promoted to VP of Advisory
+                                    Operations & Services. Officer changes are also tied to Harvard’s recent change in its corporate
+                                    succession plan. This change has strengthened Harvard’s commitment to remain privately owned for
+                                    generations.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2020</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    2020 starts the year with big announcements regarding succession planning. Harvard formalizes a plan
+                                    to keep Harvard held privately, Aaron Hager is named President and Rhonda Meyer is elevated to Senior
+                                    Vice President. Later in January Daniel Wipperfurth and James Dushek are elevated to vice presidents
+                                    of Harvard.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2018</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <div class="col-xs-12 col-sm-3">
+                                    <img src="~/images/img-1.png"
+                                         style="box-shadow: 0px 0px 16px rgba(17,17,26,0.1);border-radius: 5pc;" class="img-responsive">
+                                </div>
+                                <div class="col-xs-12 col-sm-9">
+                                    <p>
+                                        2018 was a fantastic year for the firm, exceeding all growth expectations once again. Harvard
+                                        crosses the $50 Million in gross revenue mark.
+                                    </p>
+                                    <p>
+                                        Still, 25 years later, we remain rooted in the same midwestern values that are the foundation for
+                                        our success. At the heart of those values are honesty, integrity and service. At Harvard
+                                        Investment Global Resource, it's the people who make the difference and we strive to make long
+                                        lasting personal
+                                        relationships.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2016</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    Great advisory options lead to 2016 being the best recruiting year in firm history, this exponential
+                                    growth continues all the way into the 4th quarter of 2017.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2014</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    Harvard advances its paperless office by enhancing its back-office approval workflow to be completely
+                                    paperless.
+                                </p>
+                                <p>
+                                    TD Ameritrade further expands the Harvard advisory offering including unified account management with
+                                    professional money managers on their UMAX platform
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2013</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <div class="col-xs-12 col-sm-3">
+                                    <img src="~/images/img-2.png"
+                                         style="box-shadow: 0px 0px 16px rgba(17,17,26,0.1);border-radius: 5pc;" class="img-responsive">
+                                </div>
+                                <div class="col-xs-12 col-sm-9">
+                                    <p>
+                                        Harvard expands its advisory offering to include the services of Charles Schwab. This not only
+                                        gives more flexibility to advisors but opens the door to no fee ETF trading.
+                                    </p>
+                                    <p>
+                                        Harvard becomes the first broker dealer of its size to offer Morningstar Office to advisors.
+                                        Morningstar Office is our complete practice and portfolio management system for independent
+                                        financial advisors. It features robust portfolio management and performance reporting, advanced
+                                        research capabilities, sophisticated investment planning and secure communications using the Client
+                                        Web Portal.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2012</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    In an effort to make the firm more RIA centric, Harvard became one of the first broker-dealers to
+                                    utilize Pershing Advisor Solutions. Harvard chose not to charge administrative fees for processing
+                                    advisory business, something that makes us unique to this day.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-border "></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="timeline-title">Big Changes Happening</h4>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2008</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    Harvard moves headquarters from our humble beginnings at One Odana Court to a beautiful and modern
+                                    online remote working space.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">2007</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    In August, WealthServ Investments replaced Ops. WealthServ is a back-office solution for
+                                    communication with our advisors and their clients, replacing three former software programs and
+                                    creating a time-saving processing flow. Improvements in efficiency allowed for much of the back-office
+                                    staff to change from data entry positions to service positions giving personal attention to our
+                                    advisors.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-border "></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="timeline-title">Going Digital</h4>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">1998</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>Harvard starts the journey to move to a paperless office with the implementation of LaserFiche.</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">1993</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    Harvard makes a significant push to leverage technology with Ops (WinOps). This helped the automation
+                                    of the compliance and commission process.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-border "></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="timeline-title">The Early Years</h4>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">1990</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>Harvard saw rapid expansion through the recruitment of two large groups.</p>
+                                <p> In March of 1990, Hydra joined Harvard.</p>
+                                <p> In July of 1990, PDI joined Harvard.</p>
+                                <p>Many advisors from these groups are still with Harbour more than 25 years later.</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-badge"></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">1987</h3>
+                                <div class="divide"></div>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    Harvard was founded in January 1987, in the beautiful city of Madison, Wisconsin by President and
+                                    CEO, Nick Sondel. When Nick established Harbour, he envisioned a broker-dealer that truly was
+                                    different from all the others. One that values strong working relationships, loyalty, personal
+                                    connections, honesty and integrity. One that gives flexibility for advisors to run their businesses
+                                    within the confines of prudent investing.
+                                </p>
+                                <p>
+                                    In April of 1987, Harbour acquired its first representative and established its long-time
+                                    headquarters at One Odana Court.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-border last"></div>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer">
+                <div class="container">
+                    <div class="footer-container">
+                        <div class="menu-main-navigation-menu-container">
+                            <ul id="menu-main-navigation-menu-1" class="footer-menu">
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-67"></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-58" </li>
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3834"></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row middle">
+                        <div class="col-xs-12 col-sm-4">
+                            <ul class="first-list">
+                                <li class="first"><i class="fa fa-map-marker"></i>Harvard Investments, Inc</li>
+                                <!-- <li class="second">575 D'Onofrio Drive <br>Ste 300</li>
+                                <li class="second">Madison, WI 53719</li> -->
+                            </ul>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 middle-footer">
+                            <ul>
+                                <li><i class="fa fa-phone"></i> <a href="tel:(832) 669-6465">(832) 669-6465</a></li>
+                                <!-- <li><i class="fa fa-phone"></i> <a href="tel:(888) 855-6960">(888) 855-6960</a></li>
+                                <li><i class="fa fa-fax"></i> <a href="tel:(608) 662-6116">(608) 662-6116</a></li> -->
+                            </ul>
+                        </div>
+                        <div class="col-xs-12 col-sm-4">
+                            <ul>
+                                <li><i class="fa fa-envelope-o"></i> <a href="mailto:info@Harbour.com"></a></li>
+                                <!-- <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/company/Harbour-investments">Follow
+                                    Us on LinkedIn</a></li>
+                                <li><i class="fa fa-user"></i> <a href="../../join-us/index.htm">Careers</a></li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row login">
+                        <!-- <div class="col-xs-12 col-sm-6"> <i class="fa fa-lock"></i> <a href="../../member-login/index.htm">Advisor
+                            Log In</a></div>
+                        <div class="col-xs-12 col-sm-6"> <i class="fa fa-lock"></i> <a href="https://www.smarshmail.com"
+                            target="_blank">Webmail Log In</a></div> -->
+                    </div>
+                    <div class="col-xs-12 txt-center bottom-footer">
+                        Members: <a href="http://www.finra.org/" target="_blank"
+                                    class="members">FINRA</a> <a href="http://brokercheck.finra.org/Firm/Summary/19258" target="_blank"
+                                                                 class="members">FINRA's BrokerCheck</a> <a href="http://www.sipc.org/" target="_blank"
+                                                                                                            class="members">SIPC</a> <span class="spacer">| </span> &copy;Harvard Investments Global Resource, Inc
+                        2023 <span class="spacer"> </span> <a href="https:// " class="dolor_amet_text_1">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- footer section end -->
+    </div>
+    <!-- contact section end -->
+    <!-- copyright section start -->
+    <div class="copyright_section">
+        <div class="container">
+            <p class="copyright"><span> &copy;Harvard Investments Global Resource, Inc 2023 </span>
+        </div>
+    </div>
+    <!-- copyright section end -->
+    <!-- Javascript files-->
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/jquery-3.0.0.min.js"></script>
+    <script src="~/js/plugin.js"></script>
+    <!-- sidebar -->
+    <script src="~/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/js/custom.js"></script>
+    <!-- javascript -->
+    <script src="~/js/owl.carousel.js"></script>
+    <script src="~/https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+</body>
