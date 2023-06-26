@@ -34,27 +34,7 @@
 </head>
 
 <body>
-    <!-- header top section start -->
-    <!-- <div class="header_top">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-4">
-            <div class="call_text"><a href="#"><img src="images/map-icon.png"><span
-                  class="call_text_left">Locations</span></a></div>
-          </div>
-          <div class="col-sm-4">
-            <div class="call_text"><a href="#"><img src="images/call-icon.png"><span
-                  class="call_text_left">(832)6696465</span></a></div>
-          </div>
-          <div class="col-sm-4">
-            <div class="call_text"><a href="#"><img src="images/mail-icon.png"><span
-                  class="call_text_left">lynnellealdoncollector@gmail.com</span></a></div>
-          </div>
-        </div>
-      </div>
-    </div> -->
-    <!-- header top section end -->
-    <!-- header section start -->
+   
     <div class="header_section">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -86,11 +66,8 @@
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Home" asp-action="Testimonia">TEAM</a>
                         </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#">LOGIN</a>
-                        </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">SIGNUP</a>
+                            <a class="nav-link" asp-controller="Home" asp-action="Login">LOGIN</a>
                         </li>
                         <!-- <li class="nav-item">
                           <a class="nav-link" href="#"><img src="images/search-icon.png"></a>
@@ -657,36 +634,12 @@
                         </div>
                         <div class="col-xs-12 col-sm-4 middle-footer">
                             <ul>
-                                <li><i class="fa fa-phone"></i> <a href="tel:(832) 669-6465">(832) 669-6465</a></li>
+                                <li><i class="fa fa-phone"></i> <a href="~/tel:(832) 669-6465">(832) 669-6465</a></li>
                                 <!-- <li><i class="fa fa-phone"></i> <a href="tel:(888) 855-6960">(888) 855-6960</a></li>
                                 <li><i class="fa fa-fax"></i> <a href="tel:(608) 662-6116">(608) 662-6116</a></li> -->
                             </ul>
                         </div>
-                        <div class="col-xs-12 col-sm-4">
-                            <ul>
-                                <li><i class="fa fa-envelope-o"></i> <a href="mailto:info@Harbour.com"></a></li>
-                                <!-- <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/company/Harbour-investments">Follow
-                                    Us on LinkedIn</a></li>
-                                <li><i class="fa fa-user"></i> <a href="../../join-us/index.htm">Careers</a></li> -->
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="row login">
-                        <!-- <div class="col-xs-12 col-sm-6"> <i class="fa fa-lock"></i> <a href="../../member-login/index.htm">Advisor
-                            Log In</a></div>
-                        <div class="col-xs-12 col-sm-6"> <i class="fa fa-lock"></i> <a href="https://www.smarshmail.com"
-                            target="_blank">Webmail Log In</a></div> -->
-                    </div>
-                    <div class="col-xs-12 txt-center bottom-footer">
-                        Members: <a href="http://www.finra.org/" target="_blank"
-                                    class="members">FINRA</a> <a href="http://brokercheck.finra.org/Firm/Summary/19258" target="_blank"
-                                                                 class="members">FINRA's BrokerCheck</a> <a href="http://www.sipc.org/" target="_blank"
-                                                                                                            class="members">SIPC</a> <span class="spacer">| </span> &copy;Harvard Investments Global Resource, Inc
-                        2023 <span class="spacer"> </span> <a href="https:// " class="dolor_amet_text_1">
-
-                    </div>
-                </div>
-            </div>
+                       
         </div>
         <!-- footer section end -->
     </div>
@@ -694,7 +647,7 @@
     <!-- copyright section start -->
     <div class="copyright_section">
         <div class="container">
-            <p class="copyright"><span> &copy;Harvard Investments Global Resource, Inc 2023 </span>
+            <p class="copyright"></span> &copy;Harvard Investments Global Resource, Inc 2023 </span>
         </div>
     </div>
     <!-- copyright section end -->

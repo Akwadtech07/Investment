@@ -1,0 +1,251 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Harvard</title>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title> Harvard</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <!-- Responsive-- >
+    <link rel="stylesheet" href="~/css/responsive.css" >
+    <!-- fevicon -->
+    <link rel="icon" href="~/images/fevicon.png" type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="~/css/jquery.mCustomScrollbar.min.css">
+    <!-- Tweaks for older IEs-- >
+    <link rel="stylesheet" href="~/https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" >
+    <!-- owl stylesheets -->
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
+          media="screen">
+    <style media="screen">
+
+        import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            list-style: none;
+            text-decoration: none;
+            outline: none;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        body {
+            font-size: 14px;
+            background-image: url(../images/banner-bg.png);
+        }
+
+        a {
+            color: goldenrod;
+        }
+
+        .wrapper {
+            max-width: 310px;
+            width: 100%;
+            height: auto;
+            margin: 40px auto;
+        }
+
+            .wrapper .logo img {
+                display: block;
+                width: 48px;
+                height: 48px;
+                margin: 0 auto 25px;
+            }
+
+            .wrapper .title p {
+                margin-bottom: 15px;
+                font-size: 24px;
+                text-align: center;
+                color: white;
+            }
+
+            .wrapper .form {
+                margin-bottom: 15px;
+                background-color: #fff;
+                border: 1px solid #d8dee2;
+                border-radius: 5px;
+                padding: 20px;
+            }
+
+                .wrapper .form .input_field {
+                    margin-bottom: 15px;
+                    position: relative;
+                }
+
+                    .wrapper .form .input_field label {
+                        display: block;
+                        font-weight: 600;
+                        margin-bottom: 7px;
+                        color: #24292e;
+                    }
+
+                    .wrapper .form .input_field .input {
+                        width: 100%;
+                        background: #fff;
+                        border: 1px solid #d1d5da;
+                        box-shadow: -6px -6px 11px 0px rgba(112, 128, 144,0.34);
+                        border-radius: 3px;
+                        color: #24292e;
+                        font-size: 16px;
+                        line-height: 20px;
+                        min-height: 34px;
+                        padding: 6px 8px;
+                    }
+
+                    .wrapper .form .input_field a.forgot::before {
+                        position: absolute;
+                        top: 0;
+                        right: 0;
+                        font-size: 12px;
+                        color: goldenrod;
+                    }
+
+                    .wrapper .form .input_field .input:focus {
+                        border-color: #2188ff;
+                        box-shadow: inset 0 1px 2px rgba(27,31,35,.075), 0 0 0 2.5px rgba(3,102,214,.3);
+                    }
+
+                .wrapper .form .sign_btn {
+                    margin-top: 20px;
+                    background-color: goldenrod;
+                    border: 1px solid rgba(27,31,35,.2);
+                    width: 100%;
+                    color: #fff;
+                    font-weight: 600;
+                    cursor: pointer;
+                    padding: 6px 12px;
+                    border-radius: 4px;
+                }
+
+                    .wrapper .form .sign_btn:hover {
+                        background-color: #279f43;
+                    }
+
+            .wrapper .create_act {
+                border: 1px solid #d8dee2;
+                border-radius: 5px;
+                padding: 15px 20px;
+                text-align: center;
+                margin-bottom: 40px;
+            }
+
+                .wrapper .create_act a:hover {
+                    text-decoration: underline;
+                }
+
+        .create_act {
+            color: whitesmoke;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="header_section">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="logo"><a asp-controller="Home" asp-action="Index"><img src="~/images/logo.png"></a></div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="About">ABOUT US</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Services">SERVICES</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Customer">CUSTOMER</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="News">NEWS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Contact">CONTACT US</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Testimonia">TEAM</a>
+                        </li>
+                        <!-- <li class="nav-item">
+                          <a class="nav-link" href="#"><img src="images/search-icon.png"></a>
+                        </li>  -->
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="wrapper">
+        <div class="title">
+            <p>Sign up</p>
+        </div>
+        <div class="form">
+            <div class="input_field">
+                <label>First Name</label>
+                <input name="Name"  required class="input" placeholder="Enter your first Name">
+            </div>
+            <div class="input_field">
+                <label>Last Name</label>
+                <input name="Name" required class="input" placeholder="Enter your Last Name">
+            </div>
+            <div class="input_field">
+                <label>Email</label>
+                <input type="email" required class="input" placeholder="Enter your Email">
+            </div><div class="input_field">
+                <label>Username</label>
+                <input Name="UserName" required class="input" placeholder="Create your User Name">
+            </div>
+            <div class="input_field">
+                <label>Password</label>
+                <input type="password" required class="input" placeholder="Enter your password">
+                <a href="#" class="forgot">Forgot password?</a>
+            </div>
+            <div class="btn">
+                <input type="submit" value="Sign up" class="sign_btn">
+            </div>
+        </div>
+        @*<div class="create_act">
+            <p>New to Harvard? <a asp-controller="Home" asp-action="SignUp">Create an account.</a></p>
+        </div>*@
+
+    </div>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/jquery-3.0.0.min.js"></script>
+    <script src="~/js/plugin.js"></script>
+    <!-- sidebar -->
+    <script src="~/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/js/custom.js"></script>
+    <!-- javascript -->
+    <script src="~/js/owl.carousel.js"></script>
+    <script src="~/https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+</body>
+</html>

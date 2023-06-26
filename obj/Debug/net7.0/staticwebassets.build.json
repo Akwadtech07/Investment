@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qCTwEHKGTIrkhCsCA3wSFAnqoOd2ybmup3W1ixUxq5M=",
+  "Hash": "f/TvR4ode+TgtaOSm7Gb1LEorGFdMptGgiheuH7H4Ls=",
   "Source": "New folder",
   "BasePath": "_content/New folder",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "New folder\\wwwroot",
       "Source": "New folder",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\New folder.styles.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\obj\\Debug\\net7.0\\scopedcss\\bundle\\New folder.styles.css",
       "SourceId": "New folder",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/New folder",
       "RelativePath": "New folder.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\New folder.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Oladimeji\\Desktop\\invest\\obj\\Debug\\net7.0\\scopedcss\\bundle\\New folder.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\New folder.bundle.scp.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\New folder.bundle.scp.css",
       "SourceId": "New folder",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/New folder",
       "RelativePath": "New folder.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\New folder.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Oladimeji\\Desktop\\invest\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\New folder.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\animate.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\animate.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/animate.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\default-skin.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\default-skin.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/default-skin.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\default-skin.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\icomoon.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\icomoon.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/icomoon.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icomoon.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\jquery.fancybox.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\jquery.fancybox.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/jquery.fancybox.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.fancybox.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/jquery.mCustomScrollbar.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.mCustomScrollbar.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\jquery-ui.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\jquery-ui.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/jquery-ui.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-ui.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\meanmenu.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\meanmenu.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/meanmenu.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\meanmenu.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\nice-select.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\nice-select.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/nice-select.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\normalize.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\normalize.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/normalize.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\normalize.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\responsive.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\site.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\slick.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\slick.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/slick.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\style.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\favicon.ico",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\banner-bg.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\banner-bg.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/banner-bg.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-bg.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\banner-img.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\banner-img.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/banner-img.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-img.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\call-icon.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\call-icon.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/call-icon.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\call-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\contact-bg.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\contact-bg.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/contact-bg.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\contact-bg.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\fff.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\fff.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/fff.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fff.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\footer-logo.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\footer-logo.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/footer-logo.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\footer-logo.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\hh.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\hh.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/hh.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hh.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\hhho.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\hhho.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/hhho.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hhho.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\hyu.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\hyu.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/hyu.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hyu.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\icon-1.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\icon-1.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/icon-1.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-1.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\icon-2.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\icon-2.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/icon-2.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-2.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\icon-3.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\icon-3.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/icon-3.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-3.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\icon-4.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\icon-4.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/icon-4.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icon-4.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\iii.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\iii.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/iii.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\iii.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-1.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-1.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-1.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-1.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-2.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-2.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-2.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-2.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-3.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-3.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-3.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-3.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-4.jpg",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-4.jpg",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-4.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-4.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-4.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-4.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-4.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-5.jpg",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-5.jpg",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-5.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-5.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-5.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-5.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-5.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-6.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-6.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-6.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-6.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\img-7.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\img-7.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/img-7.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-7.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\kkk.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\kkk.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/kkk.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kkk.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\logo.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\mail-icon.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\mail-icon.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/mail-icon.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mail-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\map-icon.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\map-icon.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/map-icon.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\map-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\quote-icon.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\quote-icon.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/quote-icon.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\quote-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\search-icon.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\search-icon.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/search-icon.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\tt.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\tt.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/tt.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tt.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\ttt.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\ttt.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/ttt.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ttt.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\uuu.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\uuu.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/uuu.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\uuu.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\images\\uyt.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\images\\uyt.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "images/uyt.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\uyt.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\bootstrap.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\custom.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/jquery.mCustomScrollbar.concat.min.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\jquery.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\jquery.validate.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\jquery.validate.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/jquery.validate.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\jquery-3.0.0.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/jquery-3.0.0.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.0.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\modernizer.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\modernizer.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/modernizer.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\js\\modernizer.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\plugin.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\plugin.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/plugin.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugin.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\popper.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\site copy.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\site copy.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/site copy.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site copy.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\site.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\js\\slider-setting.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\js\\slider-setting.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "js/slider-setting.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slider-setting.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\plugins\\google-analytics-for-wordpress\\assets\\css\\frontend.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\plugins\\google-analytics-for-wordpress\\assets\\css\\frontend.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/plugins/google-analytics-for-wordpress/assets/css/frontend.min.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\plugins\\google-analytics-for-wordpress\\assets\\css\\frontend.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\common-skeleton.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\common-skeleton.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\common-skeleton.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\tooltip.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\tooltip.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\plugins\\the-events-calendar\\common\\src\\resources\\css\\tooltip.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\apple-touch-icon.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\themes\\harbour\\favicons\\apple-touch-icon.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/themes/harbour/favicons/apple-touch-icon.png",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\themes\\harbour\\favicons\\apple-touch-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon.ico",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon.ico",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/themes/harbour/favicons/favicon.ico",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon-16x16.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon-16x16.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/themes/harbour/favicons/favicon-16x16.png",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon-16x16.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon-32x32.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon-32x32.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/themes/harbour/favicons/favicon-32x32.png",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\themes\\harbour\\favicons\\favicon-32x32.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\manifest.json",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\themes\\harbour\\favicons\\manifest.json",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/themes/harbour/favicons/manifest.json",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\themes\\harbour\\favicons\\manifest.json"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\favicons\\safari-pinned-tab.svg",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\themes\\harbour\\favicons\\safari-pinned-tab.svg",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/themes/harbour/favicons/safari-pinned-tab.svg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\themes\\harbour\\favicons\\safari-pinned-tab.svg"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\themes\\harbour\\images\\logo.png",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\themes\\harbour\\images\\logo.png",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/themes/harbour/images/logo.png",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\themes\\harbour\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\uploads\\2015\\07\\homepage-slider.jpg",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\uploads\\2015\\07\\homepage-slider.jpg",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/uploads/2015/07/homepage-slider.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\uploads\\2015\\07\\homepage-slider.jpg"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\uploads\\2019\\04\\madison.jpg",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\uploads\\2019\\04\\madison.jpg",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/uploads/2019/04/madison.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\uploads\\2019\\04\\madison.jpg"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-content\\uploads\\wp-less\\harbour\\style-8f66c599d8.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-content\\uploads\\wp-less\\harbour\\style-8f66c599d8.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-content/uploads/wp-less/harbour/style-8f66c599d8.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\wp-content\\uploads\\wp-less\\harbour\\style-8f66c599d8.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-includes\\css\\classic-themes.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-includes\\css\\classic-themes.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-includes/css/classic-themes.min.css",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\wp-includes\\css\\classic-themes.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-includes\\css\\dist\\block-library\\style.min.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-includes\\css\\dist\\block-library\\style.min.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-includes/css/dist/block-library/style.min.css",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\wp-includes\\css\\dist\\block-library\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-includes\\wp-json\\tribe\\events\\v1\\index.htm",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-includes\\wp-json\\tribe\\events\\v1\\index.htm",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-includes/wp-json/tribe/events/v1/index.htm",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\wp-includes\\wp-json\\tribe\\events\\v1\\index.htm"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-includes\\wp-less\\harbour\\style-8f66c599d8.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-includes\\wp-less\\harbour\\style-8f66c599d8.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-includes/wp-less/harbour/style-8f66c599d8.css",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\wp-includes\\wp-less\\harbour\\style-8f66c599d8.css"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-json\\tribe\\events\\v1\\index.htm",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-json\\tribe\\events\\v1\\index.htm",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-json/tribe/events/v1/index.htm",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\wp-json\\tribe\\events\\v1\\index.htm"
     },
     {
-      "Identity": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\wp-less\\harbour\\style-8f66c599d8.css",
+      "Identity": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\wp-less\\harbour\\style-8f66c599d8.css",
       "SourceId": "New folder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\ZafGasWar\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\",
       "BasePath": "_content/New folder",
       "RelativePath": "wp-less/harbour/style-8f66c599d8.css",
       "AssetKind": "All",

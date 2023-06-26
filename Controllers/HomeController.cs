@@ -40,6 +40,13 @@ public class HomeController : Controller
     }public IActionResult News()
     {
         return View();
+    }  
+    public IActionResult Login()
+    {
+        return View();
+    }public IActionResult SignUp()
+    {
+        return View();
     }
 
 
