@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Views",
-    "\\Views\\Home"
+    "\\Views\\Home",
+    "\\wwwroot",
+    "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\New folder.sln",
   "PreviewInSolutionExplorer": false
 }
