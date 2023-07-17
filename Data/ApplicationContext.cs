@@ -13,10 +13,11 @@ namespace New_folder.Data
         public DbSet<Investment> Investments { get; set; }
         public DbSet<InvestmentType> InvestmentsTypes { get; set;}
         public DbSet<Investor> Investors { get; set; }
-        public DbSet<Manager> Manager { get; set; }
+        public DbSet<Broker> Brokers { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<User> Users { get; set; }
-        public DbSet<Address> Address { get; set; }
-        public DbSet<UserRole> UserRoles { get; set; }
+        public DbSet<Address> Addresses { get; set; }
+        public DbSet<Withdrawal> Withdrawals { get; set; }
+        public DbSet<Chat>Chats { get; set; }
     }
 }

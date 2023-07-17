@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Models",
+    "\\Models\\Dtos",
     "\\Views",
     "\\Views\\Home",
     "\\wwwroot",
     "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\New folder.sln",
+  "SelectedNode": "\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
