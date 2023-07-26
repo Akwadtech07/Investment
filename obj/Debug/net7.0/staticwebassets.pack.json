@@ -5,6 +5,354 @@
       "PackagePath": "staticwebassets\\New folder.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-3.3.7\\bootstrap-3.3.7-dist\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\c_logo01.png",
+      "PackagePath": "staticwebassets\\assets\\c_logo01.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\c_logo02.png",
+      "PackagePath": "staticwebassets\\assets\\c_logo02.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\c_logo03.png",
+      "PackagePath": "staticwebassets\\assets\\c_logo03.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\c_logo04.png",
+      "PackagePath": "staticwebassets\\assets\\c_logo04.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\c_logo06.png",
+      "PackagePath": "staticwebassets\\assets\\c_logo06.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\css\\Bootstrap.Super.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Bootstrap.Super.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\css\\Chat.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Chat.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\css\\Contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\css\\Super.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Super.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\clients\\c_logo01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\c_logo01.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\clients\\c_logo02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\c_logo02.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\clients\\c_logo03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\c_logo03.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\clients\\c_logo04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\c_logo04.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\clients\\c_logo05.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\c_logo05.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\clients\\c_logo06.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\c_logo06.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\success.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\success.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\success1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\success1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\img\\truckhead.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\truckhead.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\Super.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Super.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\particales-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\particales-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\README.md",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\dist\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\dist\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\dist\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Magnific-Popup-master\\Magnific-Popup-master\\dist\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\README.txt",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\css\\bootsnav.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\css\\overwrite.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\css\\overwrite.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\images\\brand\\logo-black.png",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\images\\brand\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\images\\brand\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\images\\brand\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\images\\thumb\\thumb01.jpg",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\images\\thumb\\thumb01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\images\\thumb\\thumb02.jpg",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\images\\thumb\\thumb02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\images\\thumb\\thumb03.jpg",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\images\\thumb\\thumb03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\js\\bootsnav.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\bootsnav_files\\skins\\color.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootsnav_files\\skins\\color.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\owl-carousel\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\owl-carousel\\AjaxLoader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\owl-carousel\\grabbing.png",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\owl-carousel\\grabbing.png"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\owl-carousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\owl-carousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\owl-carousel\\owl.theme.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\owl-carousel\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\owl-carousel\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\owl-carousel\\owl.transitions.css"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\particles.js-master\\particles.js-master\\LICENSE.md",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\particles.js-master\\particles.js-master\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\particles.js-master\\particles.js-master\\README.md",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\particles.js-master\\particles.js-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\particles.js-master\\particles.js-master\\particles.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\particles.js-master\\particles.js-master\\particles.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\particles.js-master\\particles.js-master\\particles.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\particles.js-master\\particles.js-master\\particles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\typed.js-master\\typed.js-master\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\typed.js-master\\typed.js-master\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\typed.js-master\\typed.js-master\\dist\\typed.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\typed.js-master\\typed.js-master\\dist\\typed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\js\\plugins\\typed.js-master\\typed.js-master\\js\\typed.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\typed.js-master\\typed.js-master\\js\\typed.js"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\sass\\partials\\_base.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\partials\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\sass\\partials\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\partials\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\sass\\partials\\_colors.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\partials\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\sass\\partials\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\partials\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\assets\\sass\\partials\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\partials\\_typography.scss"
+    },
+    {
       "Id": "C:\\Users\\Oladimeji\\Desktop\\invest\\wwwroot\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\css\\animate.min.css"
     },

@@ -14,8 +14,9 @@ namespace New_folder.Models.Dtos
         public Gender Gender { get; set; }
         public string Image { get; set; }
         public string AddressId { get; set; }
+        public AddressDto Address { get; set; }
         public string RoleId { get; set; }
-        public string Role { get; set; }
+        public RoleDto Role { get; set; }
         public Investor Investor { get; set; }
         public InvestmentType Broker { get; set; }
     }
@@ -34,8 +35,7 @@ namespace New_folder.Models.Dtos
 
     public class LoginRequestModel
     {
-        public string UserName { get; set; }
-        public string Email { get; set; }
+        public string UserNameOrEmail { get; set; }
         public string Password { get; set; }
     }
 

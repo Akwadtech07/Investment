@@ -1,7 +1,9 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using New_folder.Data;
+using New_folder.Repositories.Implementations;
 using New_folder.Repositories.Interfaces;
+using New_folder.Services.Implementations;
 using New_folder.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,28 +15,29 @@ builder.Services.AddDbContext<ApplicationContext>(option => option.UseMySql(
             builder.Configuration.GetConnectionString("DefaultConnection"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection"))
                ));
 
-builder.Services.AddScoped<IAddressService, IAddressService>();
-builder.Services.AddScoped<IBrokerService, IBrokerService>();
-builder.Services.AddScoped<IInvestmentService, IInvestmentService>();
-builder.Services.AddScoped<IInvestmentTypeService, IInvestmentTypeService>();
-builder.Services.AddScoped<IInvestorService, IInvestorService>();
-builder.Services.AddScoped<IPaymentService, IPaymentService>();
-builder.Services.AddScoped<IUserService, IUserService>();
-builder.Services.AddScoped<IWithdrawalService, IWithdrawalService>();
-builder.Services.AddScoped<IChatService, IChatService>();
-builder.Services.AddScoped<IEmailService, IEmailService>();
+builder.Services.AddScoped<IAddressService, AddressService>();
+builder.Services.AddScoped<IBrokerService, BrokerService>();
+builder.Services.AddScoped<IInvestmentService, InvestmentService>();
+builder.Services.AddScoped<IInvestmentTypeService, InvestmentTypeService>();
+builder.Services.AddScoped<IInvestorService, InvestorService>();
+builder.Services.AddScoped<IPaymentService, PaymentService>();
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IWithdrawalService, WithdrawalService>();
+builder.Services.AddScoped<IChatService, ChatService>();
+builder.Services.AddScoped<IEmailService, EmailService>();
 
 
-builder.Services.AddScoped<IAddressRepository, IAddressRepository>();
-builder.Services.AddScoped<IBrokerRepository, IBrokerRepository>();
-builder.Services.AddScoped<IInvestmentRepository, IInvestmentRepository>();
-builder.Services.AddScoped<IInvestmentTypeRepository, IInvestmentTypeRepository>();
-builder.Services.AddScoped<IInvestorRepository, IInvestorRepository>();
-builder.Services.AddScoped<IRoleRepository, IRoleRepository>();
-builder.Services.AddScoped<IUserRepository, IUserRepository>();
-builder.Services.AddScoped<IUserRepository, IUserRepository>();
-builder.Services.AddScoped<IWithdrawalRepository, IWithdrawalRepository>();
-builder.Services.AddScoped<IChatRepository, IChatRepository>();
+builder.Services.AddScoped<IAddressRepository, AddressRepository>();
+builder.Services.AddScoped<IBrokerRepository, BrokerRepository>();
+builder.Services.AddScoped<IInvestmentRepository, InvestmentRepository>();
+builder.Services.AddScoped<IInvestorRepository, InvestorRepository>();
+builder.Services.AddScoped<IInvestmentTypeRepository, InvestmentTypeRepository>();
+builder.Services.AddScoped<IInvestorRepository, InvestorRepository>();
+builder.Services.AddScoped<IRoleRepository, RoleRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IWithdrawalRepository, WithdrawalRepository>();
+builder.Services.AddScoped<IChatRepository, ChatRepository>();
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
@@ -60,18 +63,18 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllerRoute(
-        name: "location_countries",
-        pattern: "location/countries",
-        defaults: new { controller = "Location", action = "Countries" }
-    );
+//app.UseEndpoints(endpoints =>
+//{
+//    endpoints.MapControllerRoute(
+//        name: "location_countries",
+//        pattern: "location/countries",
+//        defaults: new { controller = "Location", action = "Countries" }
+//    );
 
-    // Define additional routes for states and cities
+//    // Define additional routes for states and cities
 
-    endpoints.MapDefaultControllerRoute();
-});
+//    endpoints.MapDefaultControllerRoute();
+//});
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

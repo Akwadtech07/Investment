@@ -12,6 +12,13 @@ namespace New_folder.Repositories.Implementations
         {
             _context = context;
         }
+
+        public async Task<IEnumerable<Investor>> GetAllInvestorAsync()
+        {
+            var investors = await _context.Investors.ToListAsync();
+            return investors;
+        }
+
         public async Task<Investor> GetInvestorAsync(string id)
         {
             var investor = await _context.Investors.SingleOrDefaultAsync(a => a.Id == id);

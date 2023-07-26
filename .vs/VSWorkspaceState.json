@@ -5,9 +5,10 @@
     "\\Models\\Dtos",
     "\\Views",
     "\\Views\\Home",
+    "\\Views\\Shared",
     "\\wwwroot",
     "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }

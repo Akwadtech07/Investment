@@ -1,9 +1,10 @@
 ﻿using New_folder.Data;
 using New_folder.Repositories.Interfaces;
+using System.Linq.Expressions;
 
 namespace New_folder.Repositories.Implementations
 {
-    public class BaseRepository<T> : IBaseRepository<T> where T : class, new();
+    public class BaseRepository<T> : IBaseRepository<T> where T : class, new()
     {
         protected ApplicationContext _context;
 
@@ -11,6 +12,11 @@ namespace New_folder.Repositories.Implementations
         {
             await _context.Set<T>().AddAsync(entity);
             return entity;
+        }
+
+        public bool Exists(Expression<Func<T, bool>> expression)
+        {
+            return _context.Set<T>().Any(expression);
         }
 
         public async Task<int> SaveChangesAsync()

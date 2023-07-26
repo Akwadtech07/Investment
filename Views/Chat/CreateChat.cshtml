@@ -1,0 +1,56 @@
+﻿@using New_folder.Models.Dtos
+@model List<ChatDto>
+
+@{
+    Layout = null;
+}
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700'>
+<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
+<link rel="stylesheet" href="~/assets/css/Chat.css">
+
+<div class="menu">
+    <a asp-action="Contact" asp-controller="Chat" class="back"><i class="fa fa-angle-left"></i> <img src="~/UserImage/@Model[0].ReceiverImage" draggable="false" /></a>
+    <div class="name">@Model[0].ContactName</div>
+    <div class="members"><b>You</b>, Marga, Charo & Brotons</div>
+</div>
+<ol class="chat">
+    @if (Model.Count == 0)
+    {
+        <p>Start a new chat</p>
+    }
+    else
+    {
+        @foreach (var item in Model)
+        {
+            if (ViewBag.Message == item.SendeId)
+            {
+                <li class="self">
+                    <div class="msg">
+                        <p>@item.Message</p>
+                        <time>@item.PostedTime</time>
+                    </div>
+                </li>
+            }
+            else
+            {
+
+                <li class="other">
+                    <div class="msg">
+                        <p>@item.Message</p>
+                        <time>20:17</time>
+                    </div>
+                </li>
+            }
+        }
+    }
+
+</ol>
+<div class="typezone">
+    <form asp-action="CreateChat" asp-controller="Chat">
+        <textarea type="text" placeholder="Say something" name="Message" for="Message"></textarea>
+        <input type="submit" class="send" value="" />
+    </form>
+    @*<a class="send" asp-route-recieverId="@Model.Id"></a>*@
+    <div class="emojis"></div>
+</div>
+<script src="./script.js"></script>

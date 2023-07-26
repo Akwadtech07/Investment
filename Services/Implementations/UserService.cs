@@ -13,34 +13,11 @@ namespace New_folder.Services.Implementations
             _userRepository = userRepository;
             _roleRepository = roleRepository;
         }
+
         public Task<Result<UserDto>> ChangePassword(ChangePasswordResquestModel request)
         {
             throw new NotImplementedException();
         }
-
-        public async Task<Result<UserDto>> GetUserAsync(string id)
-        {
-            var user = await _userRepository.GetUserAsync(id);
-            if (user == null) return new Result<UserDto>
-            {
-                Message = "user not found",
-                 Success= false,
-            };
-            return new Result<UserDto>
-            {
-                Message = "Success",
-                Success = true,
-                Data = new UserDto
-                {
-                 
-                    FirstName = user.FirstName,
-                    LastName = user.LastName,
-                    Email = user.Email,
-                    PhoneNumber = user.PhoneNumber,
-                    Image = user.Image,
-                    Address = user.Address.Plot + " " + user.Address.Street + " " + user.Address.City + " " + user.Address.State,
-                }
-        }   };   
 
         public async Task<Result<IEnumerable<UserDto>>> GetAll()
         {
@@ -53,25 +30,21 @@ namespace New_folder.Services.Implementations
                 Email = user.Email,
                 PhoneNumber = user.PhoneNumber,
                 Image = user.Image,
-                Role = user.Roles.Select(a => new RoleDto
+                Address = new AddressDto
                 {
-                    Name = a.Role.Name,
-                    Description = a.Role.Description,
-                }).ToList(),
+                    Nationality = user.Address.Nationality,
+                    State = user.Address.State,
+                    City = user.Address.City,
+                    HomeAddress = user.Address.HomeAddress,
+                    ZipCode = user.Address.ZipCode,
+                },
+                Role = new RoleDto
+                {
+                    Name = user.Role.Name,
+                    Description = user.Role.Description,
+                },
 
-                 Address = user.Address.Select(a => new AddressDto
-                { 
-                  Nationality = a.Address.Nationality,
-                  State = a.Address.State,
-                  City = a.Address.City,
-                  HomeAddress = a.Address.HomeAddress,
-                  ZipCode = a.Address.ZipCode,
-
-
-
-                }).ToList()
-
-            });
+            }).ToList();
 
             return new Result<IEnumerable<UserDto>>
             {
@@ -80,8 +53,7 @@ namespace New_folder.Services.Implementations
                 Data = listOfUsers,
             };
         }
-
-        public async Task<Result<IEnumerable<UserDto>>> GetAll(int id)
+        public async Task<Result<IEnumerable<UserDto>>> GetAll(string id)
         {
             var users = await _userRepository.GetAllChatContact(id);
             var listOfUsers = users.Select(user => new UserDto
@@ -106,12 +78,20 @@ namespace New_folder.Services.Implementations
             var listOfUsers = users.Select(user => new UserDto
             {
                 Id = user.Id,
-                FirstName = user.User.FirstName,
-                LastName = user.User.LastName,
-                Image = user.User.Image,
-                Email = user.User.Email,
-                PhoneNumber = user.User.PhoneNumber,
-                Address = user.User.Address.Street + " " + user.User.Address.City + " " + user.User.Address.State
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Image = user.Image,
+                Email = user.Email,
+                PhoneNumber = user.PhoneNumber,
+                Address = new AddressDto
+                {
+                    Nationality = user.Address.Nationality,
+                    State = user.Address.State,
+                    City = user.Address.City,
+                    HomeAddress = user.Address.HomeAddress,
+                    ZipCode = user.Address.ZipCode,
+
+                }
 
             }).ToList();
 
@@ -129,12 +109,20 @@ namespace New_folder.Services.Implementations
             var listOfUsers = users.Select(user => new UserDto
             {
                 Id = user.Id,
-                FirstName = user.User.FirstName,
-                LastName = user.User.LastName,
-                Image = user.User.Image,
-                Email = user.User.Email,
-                PhoneNumber = user.User.PhoneNumber,
-                Address = user.User.Address.Street + " " + user.User.Address.City + " " + user.User.Address.State
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Image = user.Image,
+                Email = user.Email,
+                PhoneNumber = user.PhoneNumber,
+                Address = new AddressDto
+                {
+                    Nationality = user.Address.Nationality,
+                    State = user.Address.State,
+                    City = user.Address.City,
+                    HomeAddress = user.Address.HomeAddress,
+                    ZipCode = user.Address.ZipCode,
+
+                }
 
             }).ToList();
 
@@ -146,15 +134,50 @@ namespace New_folder.Services.Implementations
             };
         }
 
+        public async Task<Result<UserDto>> GetUser(string id)
+        {
+            var user = await _userRepository.GetUserAsync(id);
+            if (user == null)
+                return new Result<UserDto>
+                {
+                    Message = "failed",
+                    Success = false,
+
+                };
+            return new Result<UserDto>
+            {
+                Message = "Success",
+                Success = true,
+                Data = new UserDto
+                {
+                    Id = user.Id,
+                    FirstName = user.FirstName,
+                    LastName = user.LastName,
+                    Email = user.Email,
+                    PhoneNumber = user.PhoneNumber,
+                    Image = user.Image,
+                    Address = new AddressDto
+                    {
+                        Nationality = user.Address.Nationality,
+                        State = user.Address.State,
+                        City = user.Address.City,
+                        HomeAddress = user.Address.HomeAddress,
+                        ZipCode = user.Address.ZipCode
+                    },
+                }
+            };
+        }
+
         public async Task<Result<UserDto>> Login(LoginRequestModel request)
         {
-            var user = await _userRepository.Get(a => a.Email == model.Email && a.Password == model.Password);
-            if (user == null) return new Result<UserDto>
-            {
-                Message = "invalid cridentials",
-                Success = false,
+            var user = await _userRepository.GetUserAsync(a => a.Email == request.UserNameOrEmail || a.UserName == request.UserNameOrEmail && a.Password == request.Password);
+            if (user == null)
+                return new Result<UserDto>
+                {
+                    Message = "invalid cridentials",
+                    Success = false,
 
-            };
+                };
 
             return new Result<UserDto>
             {
@@ -167,17 +190,22 @@ namespace New_folder.Services.Implementations
                     LastName = user.LastName,
                     Email = user.Email,
                     Image = user.Image,
-                    Role = user.Roles.Select(a => new RoleDto
+                    Role = new RoleDto
                     {
-                        Id = a.Role.Id,
-                        Name = a.Role.Name,
-                        Description = a.Role.Description
+                        Id = user.Role.Id,
+                        Name = user.Role.Name,
+                        Description = user.Role.Description
 
-                    }).ToList(),
+                    },
 
 
                 }
-
             };
+        }
     }
-    } }
+}
+
+
+
+
+

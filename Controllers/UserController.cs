@@ -25,58 +25,58 @@ namespace New_folder.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginRequestModel model)
-        {
-            var user = await _userService.Login(model);
+        //public async Task<IActionResult> Login(LoginRequestModel model)
+        //{
+        //    var user = await _userService.Login(model);
 
-            if (user.Data != null)
-            {
-                var claims = new List<Claim>
-                {
+        //    if (user.Data != null)
+        //    {
+        //        var claims = new List<Claim>
+        //        {
 
-                     new Claim(ClaimTypes.NameIdentifier, user.Data.Id.ToString()),
-                     new Claim(ClaimTypes.Email, user.Data.Email),
-                     new Claim(ClaimTypes.Name, user.Data.FirstName + " " + user.Data.LastName),
-                     new Claim(ClaimTypes.Role, user.Data.Role),
-                     new Claim("Image", user.Data.Image),
+        //             new Claim(ClaimTypes.NameIdentifier, user.Data.Id.ToString()),
+        //             new Claim(ClaimTypes.Email, user.Data.Email),
+        //             new Claim(ClaimTypes.Name, user.Data.FirstName + " " + user.Data.LastName),
+        //             new Claim(ClaimTypes.Role, user.Data.Role),
+        //             new Claim("Image", user.Data.Image),
 
-                };
+        //        };
 
-                var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-                var principal = new ClaimsPrincipal(identity);
-                var properties = new AuthenticationProperties();
+        //        var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+        //        var principal = new ClaimsPrincipal(identity);
+        //        var properties = new AuthenticationProperties();
 
-                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal, properties);
-                if (user.Success == true)
-                {
-                    if (user.Data.Role == "SuperAdmin")
-                    {
-                        TempData["Success"] = "Login sucessful";
-                        return RedirectToAction("SuperBoard");
-                    }
-                    else if (user.Data.Role == "Broker")
-                    {
+        //        await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal, properties);
+        //        if (user.Success == true)
+        //        {
+        //            if (user.Data.Role == "SuperAdmin")
+        //            {
+        //                TempData["Success"] = "Login sucessful";
+        //                return RedirectToAction("SuperBoard");
+        //            }
+        //            else if (user.Data.Role == "Broker")
+        //            {
 
-                        TempData["Success"] = "Welcome";
-                        return RedirectToAction("BrokerBoard");
-                    }
-                    else if (user.Data.Role == "Investor")
-                    {
+        //                TempData["Success"] = "Welcome";
+        //                return RedirectToAction("BrokerBoard");
+        //            }
+        //            else if (user.Data.Role == "Investor")
+        //            {
 
-                        TempData["Success"] = "Welcome";
-                        return RedirectToAction("InvestorBoard");
-                    }
-                }
-                else
-                {
+        //                TempData["Success"] = "Welcome";
+        //                return RedirectToAction("InvestorBoard");
+        //            }
+        //        }
+        //        else
+        //        {
 
-                    TempData["Fail"] = "Username Or Password Not Correct";
-                    return View();
-                }
-            }
-            TempData["Fail"] = "Invalid Credentials pls try again with correct details!";
-            return View();
-        }
+        //            TempData["Fail"] = "Username Or Password Not Correct";
+        //            return View();
+        //        }
+        //    }
+        //    TempData["Fail"] = "Invalid Credentials pls try again with correct details!";
+        //    return View();
+        //}
 
         [HttpGet]
         public async Task<IActionResult> LogOut()

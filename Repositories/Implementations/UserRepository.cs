@@ -11,34 +11,33 @@ namespace New_folder.Repositories.Implementations
         public UserRepository(ApplicationContext context)
         {
             _context = context;
+            
 
         }
         
 
         public async Task<IEnumerable<User>> GetAll()
         {
-            var user = await _context.Users.Include(a => a.Address).Include(a => a.UserRoles).ThenInclude(a => a.Role).ToListAsync();
+            var user = await _context.Users.Include(a => a.Address).Include(a => a.Role).ToListAsync();
             return user;
         }
 
-        public async Task<IEnumerable<Role>> GetAllBroker()
+        public async Task<IEnumerable<User>> GetAllBroker()
         {
-            var user = await _context.Roles.Include(x => x.User)
-               .Include(x => x.User.Address)
+            var user = await _context.Users.Include(x => x.Role)
                .Where(x => x.Role.Name == "Brokeer").ToListAsync();
             return user;
         }
 
-        public async Task<IEnumerable<User>> GetAllChatContact(int id)
+        public async Task<IEnumerable<User>> GetAllChatContact(string id)
         {
             var user = await _context.Users.Where(x => x.Id != id).ToListAsync();
             return user;
         }
 
-        public async Task<IEnumerable<Role>> GetAllInvestor()
+        public async Task<IEnumerable<User>> GetAllInvestor()
         {
-            var user = await _context.Roles.Include(x => x.User)
-               .Include(x => x.User.Address)
+            var user = await _context.Users.Include(x => x.Role)
                .Where(x => x.Role.Name == "Investor").ToListAsync();
             return user;
         }
@@ -49,22 +48,19 @@ namespace New_folder.Repositories.Implementations
             return user;
         }
 
-        public Task<User> GetUserAsync(Expression<Func<User, bool>> expression)
+        public async Task<User> GetUserAsync(Expression<Func<User, bool>> expression)
         {
-            throw new NotImplementedException();
+            var user = await _context.Users.Include(a => a.Role).FirstOrDefaultAsync(expression);
+            return user;
         }
 
         public Task<IEnumerable<User>> GetUserAsync()
         {
             throw new NotImplementedException();
         }
+    
     }
 
-    public async Task<User> GetUserAsync(Expression<Func<User, bool>> expression)
-    {
-        var user = await _context.Users.Include(a => a.Roles).ThenInclude(a => a.Role).FirstOrDefaultAsync(expression);
-        return user;
-    }
 
    
 }

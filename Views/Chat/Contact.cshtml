@@ -1,0 +1,42 @@
+﻿@model IEnumerable<New_folder.Models.Dtos.UserDto>
+@{
+    Layout = null;//"~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+<link rel="stylesheet" href="~/assets/css/Contact.css">
+
+
+<!-- partial:index.partial.html -->
+<div class="center">
+    <div class="contacts" style="display:grid">
+        <a asp-action="Index" asp-controller="Home"> <i class="fas fa-bars fa-2x"> </i> </a>
+        <h2>
+            Contacts
+        </h2>
+        @foreach (var user in Model)
+        {
+            <div class="contact">
+
+                <div class="pic stark">
+                    <img src="~/UserImage/@user.Image" height="64px" width="64px">
+                </div>
+                <div class="badge">
+                </div>
+                <a style="text-decoration: none" asp-route-id="@user.Id" asp-action="CreateChat">
+                    <div class="name">
+                        @user.FirstName
+                    </div>
+                    <div class="message">
+                    </div>
+                </a>
+            </div>
+        }
+
+    </div>
+</div>
+<!-- partial -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="~/assets/js/main.js"></script>

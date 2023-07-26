@@ -41,6 +41,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "GoogleMaps": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.2, )"
@@ -54,6 +58,10 @@
             "OpenCage.Geocode": {
               "target": "Package",
               "version": "[1.6.0, )"
+            },
+            "OpenCage.Geocode.DotNetStandard": {
+              "target": "Package",
+              "version": "[1.5.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",

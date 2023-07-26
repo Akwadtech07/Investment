@@ -12,6 +12,8 @@ namespace New_folder.Models.Entities
         public string LastName { get; set; }
         public Gender Gender { get; set; }
         public string Image { get; set; }
+        public Address Address { get; set; }
+        public Role Role { get; set; }
         public string AddressId { get; set; }
         public string RoleId { get; set; }
         public Investor Investor { get; set; }

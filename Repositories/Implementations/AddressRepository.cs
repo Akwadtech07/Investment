@@ -11,7 +11,7 @@ namespace New_folder.Repositories.Implementations
     {
         public AddressRepository(ApplicationContext context) 
         { 
-            _context = context;
+            _context = context; 
         }
         public async Task<Address> GetAddressAsync(string id)
         {

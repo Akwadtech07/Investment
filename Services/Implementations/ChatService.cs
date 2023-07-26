@@ -5,7 +5,7 @@ using New_folder.Services.Interfaces;
 
 namespace New_folder.Services.Implementations
 {
-    public class ChatService
+    public class ChatService : IChatService
     {
         private readonly IChatRepository _chatRepository;
         private readonly IUserRepository _userRepository;
@@ -146,6 +146,16 @@ namespace New_folder.Services.Implementations
                     SendeId = x.Sender.Id,
                 }).ToList()
             };
+        }
+
+        public Task<Result<List<ChatDto>>> Get(string senderId, string recieverId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Result<UserDto>> Get(string contactId)
+        {
+            throw new NotImplementedException();
         }
     }
 }
