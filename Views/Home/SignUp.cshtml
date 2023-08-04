@@ -206,7 +206,7 @@
             </nav>
         </div>
     </div>
-    <div class="wrapper">
+    <div class="wrapper mb-7">
         <div class="title">
             <p>Sign up</p>
         </div>
@@ -234,23 +234,51 @@
             <div class="input_field">
                 <label>Password</label>
                 <input asp-for="Password" type="password" required class="input" placeholder="Enter your password">
-                <a href="#" class="forgot">Forgot password?</a>
+                
             </div>
             <div class="input_field">
                 <label>Gender</label>
-                <input asp-for="Gender" type="email" required class="input" placeholder="Gender">
+                <Select asp-for="Gender"  required class="input" placeholder="Gender">
+                    <option>male</option>
+                    <option>female</option>
+                </Select>
+            </div>
+            
+            <div class="input_field">
+                <label>Nationality</label>
+                <select asp-for="Nationality" class="input" id="nationality" name="" required oninput="FetchState(this.value)"></select>
             </div>
             <div class="input_field">
-                <label>Address</label>
-                 
+                <label>State</label>
+                <select asp-for="State" class="input" id="state" placeholder="State" oninput="FetchCity(this.value)"> </select>
+                
+            </div>
+            <div class="input_field">
+                <label>City</label>
+                <select asp-for="City" class="input" id="city" placeholder="City"></select>
+                    
+            </div>
+            <div class="input_field">
+                <label>HomeAddress</label>
+                <input asp-for="HomeAddress" class="input" id="nationality" placeholder="Enter Home Address">
+                    
+                
+            </div>
+            <div class="input_field">
+                <label>ZipCode</label>
+                <input asp-for="ZipCode" class="input" placeholder="Zip Code">
+                   
+            </div>
+            <div class="input_field">
+               @*  
                 <select asp-for="Nationality" id="National" name="Nationaity" required placeholder="Country">
 
                     
-                </select>
-                <select asp-for="State" class="input" placeholder="State"></select>
-                <select asp-for="City" class="input" placeholder="City"><</select>
-                <select asp-for="HomeAddress" class="input" placeholder="Street"></select>
-                <select asp-for="ZipCode" class="input" placeholder="Zip"></select>
+                </select>*@
+                
+                
+                
+                
             </div>
             <div class="btn">
                 <input type="submit" value="Sign up" class="sign_btn">
@@ -260,23 +288,78 @@
             <p>New to Harvard? <a asp-controller="Home" asp-action="SignUp">Create an account.</a></p>
         </div>*@
         <script>
+
+           
+
+
             function FetchCountry()
             {
+                
+                let natonality = document.querySelector("#nationality");
+                var headers = new Headers();
+                headers.append("X-CSCAPI-KEY", "bmwzVGIwWjZyNkJsRHpOaWNndnNBWDFOTExaSkxuMzFURTFOR09wcg==");
 
-                let natonality = document.querySelector("#Nationality");
-                fetch("https://restcountries.com/v3.1/all")
-                    .then(res => res.json())
-                    .then(x => x.forEach(x => 
-                        {
-                            console.log(x);
-                            natonality.innerHTML += `<option value="${x.name.common}"> ${x.name.common} </option>`
-                        }))
+                var requestOptions = {
+                    method: 'GET',
+                    headers: headers,
+                    redirect: 'follow'
+                };
+
+                fetch("https://api.countrystatecity.in/v1/countries", requestOptions)
+                    .then(response => response.json())
+                    .then(result => result.forEach(x => {
+                        console.log(x.name)
+                        natonality.innerHTML += `<option value="${x.iso2}"> ${x.name} </option>`
+                    }))
+                    .catch(error => console.log('error', error));
             }
             FetchCountry()
+
+            function FetchState(iso2) {
+               
+                let state = document.querySelector("#state");
+                var headers = new Headers();
+                headers.append("X-CSCAPI-KEY", "bmwzVGIwWjZyNkJsRHpOaWNndnNBWDFOTExaSkxuMzFURTFOR09wcg==");
+
+                var requestOptions = {
+                    method: 'GET',
+                    headers: headers,
+                    redirect: 'follow'
+                };
+                state.innerHTML = ''
+                fetch(`https://api.countrystatecity.in/v1/countries/${iso2}/states`, requestOptions)
+                    .then(response => response.json())
+                    .then(result => result.forEach(x => {
+                        console.log(x.name)
+                        state.innerHTML += `<option value="${x.iso2}"> ${x.name} </option>`
+                    }))
+                    .catch(error => console.log('error', error));
+            } 
+            function FetchCity(iso2) {
+               
+                let city = document.querySelector("#city");
+                var headers = new Headers();
+                headers.append("X-CSCAPI-KEY", "bmwzVGIwWjZyNkJsRHpOaWNndnNBWDFOTExaSkxuMzFURTFOR09wcg==");
+
+                var requestOptions = {
+                    method: 'GET',
+                    headers: headers,
+                    redirect: 'follow'
+                };
+                city.innerHTML = ''
+                let natonality = document.querySelector("#nationality");
+                fetch(`https://api.countrystatecity.in/v1/countries/${natonality.value}/states/${iso2}/cities`, requestOptions)
+                    .then(response => response.json())
+                    .then(result => result.forEach(x => {
+                        console.log(x.name)
+                        city.innerHTML += `<option value="${x.name}"> ${x.name} </option>`
+                    }))
+                    .catch(error => console.log('error', error));
+            }
         </script>
 
     </div>
-    <script src="~/js/jquery.min.js"></script>
+    @*<script src="~/js/jquery.min.js"></script>*@
     <script src="~/js/popper.min.js"></script>
     <script src="~/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/jquery-3.0.0.min.js"></script>

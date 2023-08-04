@@ -1,6 +1,6 @@
+C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\New folder.exe
 C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\New folder.dll
 C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\New folder.exe
 C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\appsettings.json
 C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\New folder.staticwebassets.runtime.json

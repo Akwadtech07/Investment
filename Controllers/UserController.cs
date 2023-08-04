@@ -24,7 +24,18 @@ namespace New_folder.Controllers
             return View();
         }
 
-        [HttpPost]
+        [HttpGet]
+        public IActionResult InvestorBoard()
+        {
+            return View();
+        }
+        [HttpGet]
+        public async Task<IActionResult> SuperBoard()
+        {
+            //var superadmin = HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            //var supe = await _userService.GetUser(superadmin);
+            return View();
+        }
         //public async Task<IActionResult> Login(LoginRequestModel model)
         //{
         //    var user = await _userService.Login(model);

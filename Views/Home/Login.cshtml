@@ -62,7 +62,7 @@ font-size: 14px;
 }
 
 a{
-  color: goldenrod;
+  color: white;
 }
 
 .wrapper{
@@ -157,12 +157,18 @@ border: 1px solid #d8dee2;
 }
 
 .wrapper .create_act a:hover{
-text-decoration: underline;
+text-decoration:wavy;
 }
 
   .create_act{
-   color:whitesmoke;
+   color:red;
+   font-weight:bolder;
    
+   }
+   .forgot
+   {
+       color:goldenrod
+       ;
    }
 
 
@@ -216,15 +222,16 @@ text-decoration: underline;
   	<div class="form">
   		<div class="input_field">
   			<label>Username or email address</label>
-  			<input asp-for="UserNameOrEmail" type="text" required class="input">
+  			<input asp-for="UserNameOrEmail" type="text" required class="input" placeholder="Enter Your User Name or Email">
   		</div>
   		<div class="input_field">
   			<label>Password</label>
-  			<input asp-for="Password" type="password" required class="input">
+  			<input asp-for="Password" type="password" required class="input" placeholder="Enter Your Password">
   			<a href="#" class="forgot">Forgot password?</a>
   		</div>
   		<div class="btn">
   			<input type="submit" value="Sign in" class="sign_btn">
+              
   		</div>
   	</div>
   	<div class="create_act">
