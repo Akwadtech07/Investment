@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Controllers",
     "\\Models",
     "\\Models\\Dtos",
     "\\Views",
@@ -9,6 +10,6 @@
     "\\wwwroot",
     "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Views\\Home\\SignUp.cshtml",
+  "SelectedNode": "\\Models\\Dtos\\AddressDto.cs",
   "PreviewInSolutionExplorer": false
 }

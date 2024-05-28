@@ -6298,19 +6298,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Oladimeji\\.nuget\\packages\\": {}
+    "C:\\Users\\Oladimeji\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oladimeji\\Desktop\\invest\\New folder.csproj",
+      "projectUniqueName": "C:\\Users\\Oladimeji\\Desktop\\Akwadtech G\\invest\\New folder.csproj",
       "projectName": "New folder",
-      "projectPath": "C:\\Users\\Oladimeji\\Desktop\\invest\\New folder.csproj",
+      "projectPath": "C:\\Users\\Oladimeji\\Desktop\\Akwadtech G\\invest\\New folder.csproj",
       "packagesPath": "C:\\Users\\Oladimeji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oladimeji\\Desktop\\invest\\obj\\",
+      "outputPath": "C:\\Users\\Oladimeji\\Desktop\\Akwadtech G\\invest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Oladimeji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6318,7 +6323,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6331,6 +6336,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -6387,11 +6397,17 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    },
     {
       "code": "NU1701",
       "level": "Warning",

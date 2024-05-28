@@ -48,3 +48,54 @@ C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\New folder.runtimeconfig.json
 C:\Users\Oladimeji\Desktop\invest\bin\Debug\net7.0\New folder.pdb
 C:\Users\Oladimeji\Desktop\invest\obj\Debug\net7.0\New folder.genruntimeconfig.cache
 C:\Users\Oladimeji\Desktop\invest\obj\Debug\net7.0\ref\New folder.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\appsettings.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\New folder.staticwebassets.runtime.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\New folder.exe
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\New folder.deps.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\New folder.runtimeconfig.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\New folder.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\New folder.pdb
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\GoogleMaps.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\JsonSubTypes.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\OpenCage.Geocode.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\ServiceStack.Text.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\sib_api_v3_sdk.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.csproj.AssemblyReference.cache
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.AssemblyInfoInputs.cache
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.AssemblyInfo.cs
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.RazorAssemblyInfo.cache
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.RazorAssemblyInfo.cs
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\staticwebassets\msbuild.New folder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\staticwebassets\msbuild.build.New folder.props
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.New folder.props
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.New folder.props
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\scopedcss\bundle\New folder.styles.css
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\scopedcss\projectbundle\New folder.bundle.scp.css
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\refint\New folder.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.pdb
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.genruntimeconfig.cache
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\ref\New folder.dll
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.sourcelink.json
+C:\Users\Oladimeji\Desktop\Akwadtech G\invest\obj\Debug\net7.0\New folder.csproj.Up2Date

@@ -30,7 +30,7 @@ namespace New_folder.Controllers
             return View();
         }
         [HttpGet]
-        public async Task<IActionResult> SuperBoard()
+        public  IActionResult SuperBoard()
         {
             //var superadmin = HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
             //var supe = await _userService.GetUser(superadmin);

@@ -44,7 +44,7 @@ namespace New_folder.Services.Implementations
             return new Result<ChatDto>
             {
                 Message = " Message successfully sent",
-                Success = true
+                Success = true,
             };
 
         }
